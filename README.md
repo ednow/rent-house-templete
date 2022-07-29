@@ -2,7 +2,7 @@
 
 ### 使用
 
-下载此模板，将收集到的信息填入
+[下载](https://github.com/ednow/rent-house-templete/raw/main/%E7%A7%9F%E6%88%BF.xlsx)此模板，将收集到的信息填入
 
 ### 特性
 
